@@ -1,0 +1,14 @@
+name = "tunnel-panel"
+main = "_worker.js"
+compatibility_date = "2025-01-01"
+[[d1_databases]]
+binding = "TUNNEL_DB"
+database_name = "tunnel-state"
+database_id = "22ea2647-8e5f-43ac-9477-9482d25f55fa"
+
+
+
+
+
+
+
